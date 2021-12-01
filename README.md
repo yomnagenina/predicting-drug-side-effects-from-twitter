@@ -1,7 +1,7 @@
 # Predicting drug side effects from Twitter
 Analyzing data-mined drug and side effect relationships extracted from Twitter to predict adverse side effects of drugs.
 
-📄 [predicting-adverse-side-effects-paper.pdf](https://github.com/yomnagenina/predicting-drug-side-effects-from-twitter/blob/main/predicting-adverse-side-effects-paper.pdf)
+<a href="https://github.com/yomnagenina/predicting-drug-side-effects-from-twitter/blob/main/predicting-adverse-side-effects-paper.pdf"><img src="https://user-images.githubusercontent.com/95329530/144175692-d48aaad9-dc54-4887-9894-db312abdeb4a.png"/></a> <a href="https://github.com/yomnagenina/predicting-drug-side-effects-from-twitter/blob/main/predicting-adverse-side-effects-paper.pdf">predicting-adverse-side-effects-paper.pdf</a>
 
 ## Abstract
 Adverse drug reactions (ADR’s) are among the leading causes of death in the United States. Due to the shortcomings of ADR identification during the drug development process, in
